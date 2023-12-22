@@ -17,6 +17,6 @@ Ping Sweeper is a simple Python script that scans a range of IP addresses to che
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ChinTiw/ping-sweeper.git
+git clone https://github.com/Chintiw/ping-sweeper.git
 cd ping-sweeper
 
